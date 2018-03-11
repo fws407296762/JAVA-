@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:cf="http://www.microsoft.com/schemas/rss/core/2005"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+	
+	<channel>
+		<title>北风博客网</title>
+		<link>http://localhost:8080/BFblogDemo07/login.jsp</link>
+		<description>专注于IT培训</description>
+		<item>
+			<title>测试RSS</title>
+			<link>http://localhost:8080/BFblogDemo07/login.jsp</link>
+			<description>测试RSS，成功</description>
+			<author>lifengxing</author>
+			<pubDate>Thu, 19 Mar 2009 02:46:00 GMT</pubDate>
+		</item>
+	</channel>
+</rss>	
